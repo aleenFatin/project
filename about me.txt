@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title> About Me </title>
+
+</head>
+
+<body>
+
+<table width="80%" align="center" bgcolor="#a3a3c2" cellspacing="10">
+
+
+
+<!--**********FIRST ROW START********** -->
+<tr>
+
+
+<!--**********HEADER SECTION START********** -->
+<td colspan="2" bgcolor="#ECF0F1">
+
+<img src="images/header.jpg">
+ 
+
+</td>
+<!--**********HEADER SECTION END********** -->
+
+
+</tr>
+<!--**********FIRST ROW END********** -->
+
+
+
+
+
+<!--**********SECOND ROW START********** -->
+<tr>
+ 
+<!--**********CONTENT SECTION START********** -->
+<td bgcolor="#E8DAEF">
+
+
+<div style="text-align: center;">
+<h1>ABOUT ME<h1>
+<h3>Title:CORPORATE WEBSITE</h3>
+<h3>Name:Aleen Nur Fatin binti Shaari</h3>
+<h3>Student ID: 2022931101</h3>
+<h3>Group: Elek C </h3>
+<h3>Course code: IMS456</h3>
+<h3>Coursename: Basic Web Design And Content Management </h3>
+<h3>Program code: IM246 </h3>
+<h3>Faculty: Information Management</h3>
+<h3>Submission date: 14 July 2022</h3>
+
+</div>
+
+
+
+<br>
+<br>
+<br>
+
+
+<!--**********SIDEBAR SECTION START********** -->
+<td bgcolor="#E8DAEF" valign="top">
+
+
+<ul>
+<li><a href="index.html">About me</a></li>
+<li><a href="resume.html">Resume</a></li>
+<li><a href="portfolio.html">Portfolio</a></li>
+<li><a href="blog.html">Blog</a></li>
+<li><a href="contact.html">Contact Me</a></li>
+</ul>
+
+<div style="text-align:center;">
+	<img src="images/poster.jpg" alt="poster" width="450" height="850">
+</div>
+
+<!--**********SIDEBAR SECTION END********** -->
+<td>
+</td>
+
+
+
+
+</td>
+<!--**********CONTENT SECTION END********** -->
+
+</tr>
+<!--**********SECOND ROW END********** -->
+
+
+
+
+
+
+<!--**********THIRD ROW START********** -->
+<tr>
+
+<!--**********FOOTER SECTION START********** -->
+<td colspan="2" bgcolor="#D7DBDD">
+
+
+<div style="text-align: center;">
+
+<p>Contact me via my student email or my phone number :</p>
+
+<p><a href="tel:+60197222099">+60197222099</a></p>
+
+<p><a href="mailto:2022931101@student.uitm.edu.my">Send email</a></p>
+
+<h2>Copyright &copy;</h2>
+
+</div>
+
+</td>
+<!--**********FOOTER SECTION END********** -->
+
+</tr>
+<!--**********FOOTER ROW END********** -->
+
+
+
+</table>
+
+</body>
+</head>
+</html>

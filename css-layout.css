@@ -1,0 +1,138 @@
+/* CSS Layout */
+
+
+/* Main Background */
+.page {background-color:#ffc266;
+       width:85%;
+       margin:auto;}
+
+/*navigation bar section */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #668cff;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #ffc266;
+}
+
+.active {
+  background-color: #333;
+}
+
+/* Header Section */
+.main-header {
+  background-color:white;
+}
+
+/* Main + Sidebar Background*/
+.container {background-color:white;
+            padding:10px;}
+
+/* Main Section*/
+
+.main {
+  background-color:#ffc266;
+  padding: 20px;
+       width:69%;
+       float:left;}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #333;
+}
+
+p {
+  text-align: justify;
+  letter-spacing: 3px;
+}
+
+.welcome {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+/* images */
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+/* Contact Form */
+
+input[type=text], select, textarea {
+  width: 100%; 
+  padding: 12px;
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical 
+}
+
+/* Submit button */
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* color submit button */
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* form background */
+.container {
+  border-radius: 5px;
+  background-color: #ffc266;
+  padding: 20px;
+}
+
+/* Sidebar Section*/
+.sidebar {background-color:#668cff;
+          width:25%;
+          float:right;}
+
+
+/* Footer Section*/
+.main-footer {background-color:#ffc266;
+              clear:both;}

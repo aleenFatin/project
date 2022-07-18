@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+
+<link rel="stylesheet" href="css-layout.css" />
+
+    <title>Home</title>
+</head>
+
+<body>
+
+<div class="page">
+
+	<div class="linkspart">
+	<center>
+
+<ul>
+  <li><a href="index.html">Home</a></li>
+   <li><a href="about.html">About us</a></li>
+  <li><a href="activities.html">Activities</a></li>
+  <li><a href="achievement.html">Achievement</a></li>
+  <li><a href="contact.html">Contact</a></li>
+   <li><a href="about me.html" target="_blank">About me</a></li>
+  <li style="float:right"><a class="active" href="donate.html">Donate</a></li>
+</ul>
+</center>
+</div>
+
+<!-- ==== START .main-header ==== -->
+
+
+<header class="main-header" role="banner">
+
+
+
+<p class="logo"><img src="images/banner.png" width="100%" align="center" alt="BANNER"/></p>
+
+
+</header>
+
+
+<!-- END .main-header -->
+
+<div class="container">
+
+
+<!-- ==== START MAIN ==== -->
+
+
+<main role="main" class="main">
+
+<section class="post">
+
+
+<h1>Welcome to SHELTER (Home for Children)</h1>
+
+<div class= "welcome">
+<img src="images/welcome.png" width="400" height="500" alt="welcome"
+</div>
+<div class="post-blurb">
+<p>DID YOU KNOW? In Malaysia, an estimated 64,000 children live in child-care institutions, in registered and unregistered government and private orphanages. It is difficult to establish just how many unregistered homes there are.<a href="https://www.freemalaysiatoday.com/category/nation/2021/08/26/rise-in-covid-19-orphans-home-alone-children-a-big-concern-says-activist/" class="more">Read More</a></p>
+</div>
+
+</section>
+
+<section class="post">
+<h1>SHELTER VIDEO</h1>
+
+<div class="video">
+<video width="700" height="400" controls>
+  <source src="video/vid1.mp4" type="video/mp4">
+</video>
+</div>
+
+<div class="post-blurb">
+<p>Shelter Home for Children, a registered welfare organization, was set up in June 1981. guided by the vision of providing ‘at risk’ children a safe childhood and a future by protecting, guiding and healing them by building strong communities and loving families. Shelter’s services and initiatives are aimed at:
+<br>
+<br>
+- Providing care for abused, abandoned, neglected or at
+<br>
+-risk children through our residential homes, counselling, therapy and other services
+<br>
+- Raising public awareness on child abuse/protection, parenting and youth issues, and equipping individuals with relevant skills to detect signs of abuse and to take action.
+<br>
+<a href="https://www.youtube.com/user/shelterMY" target="_blank"><class="more">Click here for more </a></p>
+</div>
+
+</section>
+
+
+</main>
+<!-- END .main -->
+
+<!-- ==== START SIDEBAR ==== -->
+<div class="sidebar">
+<article class="about">
+<h2>WHY CHOOSE SHELTER?</h2>
+
+<p>SHELTER is a registered welfare organization that helps abused, abandoned, neglected or at-risk children. We provide care to them and raise public awareness on child abuse and protection.
+<br>
+<p>SHELTER provides food and financial aid to families. Its purpose is to preserve the family unit by providing the basic needs for the children such as food, financial assistance for tuition fees, schools fees, school bus expenses, etc.</p>
+</article>
+
+<div class="mod">
+<h2>Daily Quotes</h2>
+<img src="images/photo2.jpg" width="309" height="400" alt="" class="image" />
+
+<img src="images/photo1.jpg" width="309" height="400" alt="image" />
+
+
+</div>  
+
+</div>
+<!-- END .sidebar -->
+</div>
+<!-- END .container -->
+
+
+<!-- ==== START PAGE .main-footer ==== -->
+<footer role="contentinfo" class="main-footer">
+<p class="legal"><small>&copy; 2022 Shelter. All Rights Reserved. Disclaimer: This website is for assignment purpose</small></p>
+<a href="about me.html"></a>
+</footer>
+<!-- end .main-footer -->
+</div>
+<!-- end page -->
+
+</body>
+</html>
